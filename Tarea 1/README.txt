@@ -1,6 +1,10 @@
+
+2019-1
 Rodrigo Cayazaya 201773538-4
 Jean-Franco Zárate 201773524-4
 Axel Reyes 201773502-3
+
+Los requerimientos de esta tarea se encuentran en Tarea_1.pdf y sus archivos son Nintendo.csv y Sansanoplay.csv. Se utilizó el lenguaje Python para crear las consultas.
 
 Requisitos:
 	- Usar Oracle 11g
@@ -17,8 +21,7 @@ En caso de fallos usar el driver como:
 
 
 En el .zip vienen dos archivos, uno llamado "Crear.py" que es para la creacion de las tablas e inserción de datos correspondientes.
-Este archivo sólo posee funciones que son llamadas en el programa principal. Hay que tener en cuenta de que las funciones de borrado vienen comentadas, por lo que
-si desea correr nuevamente el código debe descomentar las funciones de borrado para que al inicio del programa se borren las ya existentes y se creen nuevamente.
+Este archivo sólo posee funciones que son llamadas en el programa principal. Hay que tener en cuenta de que las funciones de borrado vienen comentadas, por lo que si desea correr nuevamente el código debe descomentar las funciones de borrado para que al inicio del programa se borren las ya existentes y se creen nuevamente.
 
 El otro archivo llamado "Consultas.py" es para realizar las consultas.
 
