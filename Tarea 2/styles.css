@@ -1,0 +1,43 @@
+.StyleBackground1{
+    background-color: #F6F5F5;
+    /*display:inline-block;*/
+}
+
+.StyleCaja1{
+    background-color: #FFFFFF;
+    position:relative;
+    width: 350px; /*ancho*/
+    height: 560px; /*largo*/
+    margin-top: 42px; /*abajo*/
+    margin-left: 778px; /*derecha*/
+    text-align: center;
+}
+
+.StyleCaja2{
+    background-color: #FFFFFF;
+    position:relative;
+    width: 350px; /*ancho*/
+    height: 69px; /*largo*/
+    margin-top: 12px; /*abajo*/
+    margin-left: 778px; /*derecha*/
+}
+
+.StyleImagenIg{
+    position: relative;
+    margin-top: 14px;
+    width: 175px;
+    height: 90px;
+}
+
+.StyleLetra1{
+    color: #939393;
+    position: relative;
+    font-size: 18px;
+    text-align: center;
+}
+
+.StyleCaja3{
+    height: 25px;
+    margin-top: 15px;
+    width: 300px;
+}
